@@ -39,3 +39,7 @@
 .title {
   text-align: center;
 }
+
+.c-modal1__inner:focus {
+  outline: none;
+}
